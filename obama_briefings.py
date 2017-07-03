@@ -1,6 +1,5 @@
 f = open('briefings.jsonl', 'r')
 
-demo_seg1.csv
 f = open('demo_seg1.csv', 'r')
 import json
 import string;
